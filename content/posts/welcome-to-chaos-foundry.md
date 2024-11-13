@@ -1,7 +1,8 @@
 ---
-date: 2024-11-13 00:00:00+0000
-title: Welcome to Chaos Foundry
-description: Forging Resilience in Complex Systems
+date: '2024-11-13T22:33:33Z'
+draft: false
+title: 'Welcome to Chaos Foundry'
+description: 'Forging Resilience in Complex Systems'
 ---
 
 Welcome to **Chaos Foundry**—your new go-to source for insights, strategies, and best practices in the evolving fields of **chaos engineering** and **resilience engineering**. Whether you're an experienced engineer or just getting started with building resilient, observable systems, we’re excited to help you dive into the tools, techniques, and mindsets that define these innovative disciplines.

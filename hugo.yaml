@@ -1,0 +1,5 @@
+baseURL: https://blog.chaosfoundry.io/
+languageCode: en-us
+title: Chaos Foundry Blog
+
+theme: ["PaperMod"]
